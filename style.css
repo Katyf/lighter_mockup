@@ -271,7 +271,7 @@ strong {
   border-radius: 30px;
   display: inline-block;
   margin-top: -10px;
-  position: absolute;
+  position: fixed;
 }
 
 .circle-one {
